@@ -5,6 +5,6 @@ Some light java SSM projects for practice.
 
 
 
-* [student-info-manage]()
+* [student-info-manage](https://github.com/Pandapd/SSM_Practices/tree/master/student-info-manage#readme)
 
 * [zk-detect-online](https://github.com/Pandapd/SSM_Practices/tree/master/zk-detect-online#readme)
